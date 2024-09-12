@@ -1,0 +1,4 @@
+RewriteEngine On
+
+# Redirect www.yourwebsite.com/banglachat to index.html
+RewriteRule ^banglachat/?$ /index.html [L]
